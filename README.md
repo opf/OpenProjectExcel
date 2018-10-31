@@ -13,3 +13,7 @@ If defined, you are able to load default values, which are stored in the workshe
 After pressing „Accept” you will get an empty worksheet “Workpackages”. You can define the attributes you want to download or upload by choosing them from the dropdown menu in row one. It is possible to define as many attributes/ columns as you want.
 
 To perform a download or an upload press Ctrl + B. By pressing, a userform will be shown to download workpackages as defined (project/ QueryID). Same procedure for uploading the changed data. You can change your chosen project (and URL etc.) by pressing „Show chosen project“.
+
+Tested on: Windows 10, Excel 16.0, VBA 7.1
+
+Using following librarys: Visual Basic For Applications, Microsoft Excel 16.0 Object Library, Microsoft Forms 2.0 Object Library, Microsoft Scripting Runtime, Microsoft WinHTTP Services, version 5.1
