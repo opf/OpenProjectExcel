@@ -19,10 +19,13 @@ https://www.openproject.org/synchronize-excel-openproject/
 ## Tutorial videos: (in German)
 
 Basics (Download, Update, Upload): 
+
 https://www.youtube.com/watch?v=kL4u7ew0yHk&list=PLGzJ4gG7hPb8M_1XskDQiBLzjumE4UlpF&index=1
 
 Custom Queries: 
+
 https://www.youtube.com/watch?v=Fs-luE7gSXA&list=PLGzJ4gG7hPb8M_1XskDQiBLzjumE4UlpF&index=2
 
 Hierarchy: 
+
 https://www.youtube.com/watch?v=SaCD8B9-4tM&list=PLGzJ4gG7hPb8M_1XskDQiBLzjumE4UlpF&index=3
