@@ -16,6 +16,20 @@ Press ctrl + n for additional filter and sort options (depends on selected works
 
 https://www.openproject.org/synchronize-excel-openproject/
 
+## Tutorial videos: (in (bad) English)
+
+Basics (Download, Update, Upload): 
+
+https://www.youtube.com/watch?v=ZPK-l-e-lKI
+
+Custom Queries: 
+
+https://www.youtube.com/watch?v=86X334cg808
+
+Hierarchy: 
+
+https://www.youtube.com/watch?v=17yqO0uXE5k
+
 ## Tutorial videos: (in German)
 
 Basics (Download, Update, Upload): 
