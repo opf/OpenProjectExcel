@@ -6,8 +6,7 @@ Using following librarys: Visual Basic For Applications, Microsoft Excel 16.0 Ob
 
 # Shortcuts for loading userforms
 
-Press ctrl + b for OpenProiect synchronization (download, upload ect.)
-
+Press ctrl + b for OpenProject synchronization (download, upload ect.)
 Press ctrl + n for additional filter and sort options (depends on selected worksheet)
 
 # HowTo
