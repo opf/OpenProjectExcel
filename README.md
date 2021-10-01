@@ -1,3 +1,7 @@
+# Support
+
+This Excel file is a community project and is not officially supported.
+
 # OpenProjectExcel
 
 Tested on: Windows 10, Excel 16.0, VBA 7.1
