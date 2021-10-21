@@ -46,3 +46,11 @@ https://www.youtube.com/watch?v=Fs-luE7gSXA&list=PLGzJ4gG7hPb8M_1XskDQiBLzjumE4U
 Hierarchy: 
 
 https://www.youtube.com/watch?v=SaCD8B9-4tM&list=PLGzJ4gG7hPb8M_1XskDQiBLzjumE4UlpF&index=3
+
+# Debugging
+
+You can activate the debugging function in the user form:
+
+![image](https://user-images.githubusercontent.com/38315559/138328308-b064946b-1050-4326-9199-9191d82e7cf6.png)
+
+You'll get a log file in your downloads folder then. (C:\Users[user name]\Downloads with the name "OpenProjectExcelLog")
