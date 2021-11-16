@@ -33,11 +33,15 @@ Hierarchy:
 
 https://www.youtube.com/watch?v=17yqO0uXE5k
 
+Relations:
+
+https://www.youtube.com/watch?v=y7QBspWlQho&feature=youtu.be
+
 ## Tutorial videos: (in German)
 
 Basics (Download, Update, Upload): 
 
-https://www.youtube.com/watch?v=kL4u7ew0yHk&list=PLGzJ4gG7hPb8M_1XskDQiBLzjumE4UlpF&index=1
+https://www.youtube.com/watch?v=kL4u7ew0yHk&list=PLGzJ4gG7hPb8M_1XskDQiBLzjumE4UlpF
 
 Custom Queries: 
 
@@ -46,6 +50,10 @@ https://www.youtube.com/watch?v=Fs-luE7gSXA&list=PLGzJ4gG7hPb8M_1XskDQiBLzjumE4U
 Hierarchy: 
 
 https://www.youtube.com/watch?v=SaCD8B9-4tM&list=PLGzJ4gG7hPb8M_1XskDQiBLzjumE4UlpF&index=3
+
+Relations:
+
+https://www.youtube.com/watch?v=wjTdXBMsrwk
 
 # Debugging
 
