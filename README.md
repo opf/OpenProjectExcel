@@ -1,7 +1,7 @@
 # New: Gantt Diagram Generation:
 Using Excel Worksheets the Bars for a Gantt Diagram can be generated:
-[![GanttDemoDiagramm](https://github.com/schmidhorst/OpenProjectExcel/raw/master/DemoGanttDiagram.png)]
-[![Configuration Sheet](https://github.com/schmidhorst/OpenProjectExcel/raw/master/GanttConfigWorksheet.png)]
+![GanttDemoDiagramm](https://github.com/schmidhorst/OpenProjectExcel/raw/master/DemoGanttDiagram.png)
+![Configuration Sheet](https://github.com/schmidhorst/OpenProjectExcel/raw/master/GanttConfigWorksheet.png)
 Configuration Options can be selected via Drop Down fields.
 
 # Support
